@@ -1,6 +1,8 @@
 # DMZ_IPmasquerade
-DMZ(demilitarized zone) and IP masquerade are WAN-to-LAN and LAN-to-WAN services.
+DMZ(demilitarized zone) and IP masquerade (NAPT: Network Address Port Translation) 
+are WAN-to-LAN and LAN-to-WAN services.
 
-DMZ maps a single WAN IP to a single LAN IP.
+DMZ translates a single WAN IP server to a single LAN IP server.
 
-IP masquerade maps a single WAN IP with several ports to LAN IPs with ports.
+IP masquerade or NAPT maps a single WAN IP with several ports 
+to multiple LAN servers with ports.
