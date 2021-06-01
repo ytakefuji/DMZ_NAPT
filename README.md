@@ -10,3 +10,4 @@ IP masquerade or NAPT translates a single-IP WAN server with several ports
 to multiple LAN servers with ports.
 
 <img src=napt.png height=200 width=800>
+https://en.wikipedia.org/wiki/Port_forwarding#/media/File:NAPT-en.svg
